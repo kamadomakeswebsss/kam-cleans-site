@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dennis Cleaning Services</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f0f8ff;
+      color: #333;
+    }
+    header {
+      background-color: #0d47a1;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h2 {
+      color: #0d47a1;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    footer {
+      background-color: #0d47a1;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Dennis Cleaning Services</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#services">Services</a>
+      <a href="#pricing">Pricing</a>
+      <a href="#reviews">Reviews</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>We offer top-notch cleaning services for homes and offices. Dennis Cleaning Services is built on reliability, professionalism, and spotless results.</p>
+  </section>
+
+  <section id="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>🏠 Residential Cleaning</li>
+      <li>🏢 Office Cleaning</li>
+      <li>🧽 Deep Cleaning</li>
+      <li>🪟 Window Washing</li>
+      <li>🚚 Move-In / Move-Out Cleaning</li>
+    </ul>
+  </section>
+
+  <section id="pricing">
+    <h2>Pricing</h2>
+    <ul>
+      <li>Basic – $79: 1 Bedroom / 1 Bath</li>
+      <li>Standard – $119: 2 Bedroom / 2 Bath</li>
+      <li>Premium – $159: Full House</li>
+      <li>Contact us for office/commercial quotes.</li>
+    </ul>
+  </section>
+
+  <section id="reviews">
+    <h2>Customer Reviews</h2>
+    <p>⭐️⭐️⭐️⭐️⭐️ “Absolutely amazing service! Highly recommend.” – Maria J.</p>
+    <p>⭐️⭐️⭐️⭐️⭐️ “Very professional and detail-oriented.” – Daniel S.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: contact@denniscleaningservices.com</p>
+    <p>Phone: (123) 456-7890</p>
+    <p>Follow us on Facebook and Instagram</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Dennis Cleaning Services. All rights reserved.</p>
+  </footer>
+</body>
+</html>
